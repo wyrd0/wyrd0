@@ -4,13 +4,13 @@ Hi 👋 My name is Mary Olive
 Web Developer
 -------------
 
-* 🌍  I'm based in North Carolina
-* 🖥️  See my portfolio at [maryolive.me](http://profile.maryolive.me/)
-* ✉️  You can contact me at [wyrdolive@proton.me](mailto:wyrdolive@proton.me)
+* 🌍  I'm currently based in North Carolina
+* 🖥️  See my portfolio at [maryolive.me](https://maryolive.me/)
+* ✉️   You can contact me at [wyrdolive@proton.me](mailto:wyrdolive@proton.me)
 * 🚀  I'm currently working on [Croning Muse (blog)](http://blog.croningmuse.net)
 * 🧠  I'm learning Javascript, React, NextJs, CSS Animation, Supabase, VPS / Coolify
 * 🤝  I'm open to collaborating on astrology software
-* ⚡  INFJ, Capricorn/Pisces, Phenomenaut
+* ⚡  INFJ, Capricorn/Pisces/Aquarius, Phenomenaut
 
 ### Skills
 
