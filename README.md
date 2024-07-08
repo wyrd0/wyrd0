@@ -1,4 +1,4 @@
-Hi 👋 My name is Mary Olive
+Hello.  My name is Mary Olive
 ===========================
 
 Web Developer
