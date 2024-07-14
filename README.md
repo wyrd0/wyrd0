@@ -4,7 +4,6 @@ Hello.  My name is Mary Olive
 Web Developer
 -------------
 
-* 🌍  I'm currently based in North Carolina
 * 🖥️  See my portfolio at [maryolive.me](https://maryolive.me/)
 * ✉️   You can contact me at [wyrdolive@proton.me](mailto:wyrdolive@proton.me)
 * 🚀  I'm currently working on [Croning Muse (blog)](http://blog.croningmuse.net)
