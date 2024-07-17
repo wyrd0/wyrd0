@@ -6,7 +6,7 @@ Web Developer
 
 * 🖥️  See my portfolio at [maryolive.me](https://maryolive.me/)
 * ✉️   You can contact me at [wyrdolive@proton.me](mailto:wyrdolive@proton.me)
-* 🚀  I'm currently working on [Croning Muse (blog)](http://blog.croningmuse.net)
+* 🚀  I'm currently working on a Moon tracking app and [Croning Muse (blog)](http://blog.croningmuse.net)
 * 🧠  I'm learning Javascript, React, NextJs, CSS Animation, Supabase, VPS / Coolify
 * 🤝  I'm open to collaborating on astrology software
 * ⚡  INFJ, Capricorn/Pisces/Aquarius, Phenomenaut
